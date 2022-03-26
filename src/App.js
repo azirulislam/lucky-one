@@ -14,7 +14,13 @@ function App() {
       return (
     <div className="App">
       <h2>Welcome to my laptop Shop</h2>
-      
+      <div className="product container">
+        {
+          products.map(product => <Product 
+            key={product.id}
+            ></Product>)
+        }
+      </div>
     </div>
   );
 }

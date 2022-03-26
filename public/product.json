@@ -1,0 +1,57 @@
+[
+    {
+      "id": "623e0021e601060e69f0d6d8",
+      "price": "$1,10000",
+      "img": "https://www.classyprice.com.bd/images/ell-XPS-13-(Core-i7-1195G7).webp",
+      "name": "DELL XPS 13 "
+    },
+    {
+      "id": "623e002121459e90b8ec0fc1",
+      "price": "$2,87400",
+      "img": "https://www.classyprice.com.bd/images/Dell-Latitude-5430-(11th-Ge.webp",
+      "name": "DELL LATITUDE 5430 "
+    },
+    {
+      "id": "623e0021c363c298f4f72ce2",
+      "price": "$3,27000",
+      "img": "https://www.classyprice.com.bd/images/Dell-Latitude-7330-Rugged-C.webp",
+      "name": "DELL LATITUDE 7330"
+    },
+    {
+      "id": "623e0021a764ce5416c08b3f",
+      "price": "$82000",
+      "img": "https://www.classyprice.com.bd/images/dell-inspiron-13-5301.webp",
+      "name": "DELL INSPIRON 13 5301"
+    },
+    {
+      "id": "623e00212cefa70d72019074",
+      "price": "$1,18800",
+      "img": "https://www.classyprice.com.bd/images/dell-inspiron-14-5406.webp",
+      "name": "DELL INSPIRON 14 5406"
+    },
+        {
+          "id": "623e01b2d65cd1b68ca5fc19",
+          "price": "$2,91000",
+          "img": "https://www.classyprice.com.bd/images/dell-vostro-14-3405-amd-ryzen-7.webp",
+          "name": "DELL VOSTRO 14 3405"
+        },
+        {
+          "id": "623e01b2d11971461e737de4",
+          "price": "$1,87000",
+          "img": "https://www.classyprice.com.bd/images/DELL%20G7%2015%207500.webp",
+          "name": "DELL G7 15 7500"
+        },
+        {
+          "id": "623e01b247fee4301f3e246f",
+          "price": "$90,000",
+          "img": "https://www.classyprice.com.bd/images/dell-5490-14-inch-i7-10th-g.webp",
+          "name": "DELL INSPIRON 14 5490"
+        },
+        {
+          "id": "623e01b23f79da839e575d6c",
+          "price": "$83,500",
+          "img": "https://www.classyprice.com.bd/images/dell-vostro-15-5581.webp",
+          "name": "DELL VOSTRO 15 5581"
+        }
+        
+  ]

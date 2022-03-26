@@ -8,7 +8,7 @@ function App() {
     useEffect( () => {
       fetch('product.json')
       .then(res => res.json())
-      .then(data => console.log(data))
+      .then(data => setProduct(data))
     },[]);
 
       return (
@@ -18,6 +18,7 @@ function App() {
         {
           products.map(product => <Product 
             key={product.id}
+            product={product}
             ></Product>)
         }
       </div>

@@ -1,2 +1,14 @@
+.container{
+    border: 1px solid red;
+}
+.cart-btn{
+    width: 250px; 
+    
+}
 
+.cart-btn p {
+    display: inline-block;
+    margin-right: 8px;
+    
+}
 
